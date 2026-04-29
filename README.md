@@ -63,16 +63,6 @@
 
 ---
 
-### 🟠 [Vibee — Application Montre Connectée](https://github.com/mohamedelferdi/vibee-smartwatch)
-> Application embarquée pour bracelet connecté orientée santé  
-> `C` `Python`
-- Projet de groupe (5 personnes)
-- Développement embarqué en C
-- Traitement des données en Python
-
----
-
-
 
 ## 📫 Me contacter
 
