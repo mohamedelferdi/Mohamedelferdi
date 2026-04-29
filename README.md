@@ -36,6 +36,14 @@
 
 ## 📂 Projets
 
+### 🟡 [WTT Training — Crédit Agricole](https://github.com/mohamedelferdi/wtt-internship-training)
+> Projet réalisé en environnement professionnel  
+> `Node.js` `TypeScript`
+- Prise en main d'une stack applicative professionnelle
+- Gestion des dépendances et pipelines npm
+
+---
+
 ### 🔵 [Mini SOC Azure — Dashboard Cybersécurité](https://github.com/mohamedelferdi/Mini-SOC-Azure-Dashboard-Cybers-curit-.git)
 > Déploiement d'un système de surveillance cloud complet  
 > `Azure` `Microsoft Sentinel` `KQL` `Power BI` `Linux` `Python`
@@ -52,14 +60,6 @@
 - Modélisation conceptuelle (MCD) et logique (MLD)
 - Implémentation SQL complète
 - Gestion des entités : membres, coachs, cours, abonnements
-
----
-
-### 🟡 [WTT Training — Crédit Agricole](https://github.com/mohamedelferdi/wtt-internship-training)
-> Projet réalisé en environnement professionnel  
-> `Node.js` `TypeScript`
-- Prise en main d'une stack applicative professionnelle
-- Gestion des dépendances et pipelines npm
 
 ---
 
