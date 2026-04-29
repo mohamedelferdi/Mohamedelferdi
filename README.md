@@ -36,7 +36,7 @@
 
 ## 📂 Projets
 
-### 🔵 [Mini SOC Azure — Dashboard Cybersécurité](https://github.com/mohamedelferdi/mini-soc-azure)
+### 🔵 [Mini SOC Azure — Dashboard Cybersécurité](https://github.com/mohamedelferdi/Mini-SOC-Azure-Dashboard-Cybers-curit-.git)
 > Déploiement d'un système de surveillance cloud complet  
 > `Azure` `Microsoft Sentinel` `KQL` `Power BI` `Linux` `Python`
 - VM Linux sur Azure avec collecte de logs via Azure Monitor
