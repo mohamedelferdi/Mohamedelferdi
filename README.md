@@ -54,7 +54,7 @@
 
 ---
 
-### 🟢 [Base de données — Salle de Boxe](https://github.com/mohamedelferdi/bdd-salle-boxe)
+### 🟢 [Base de données — Salle de Boxe](https://github.com/DID8ER/PROJET_BASE_DE_DONNEE_HIPPOLYTE_BOURRET_MOHAMED_EL_FERDI.git)
 > Conception complète d'une base de données relationnelle  
 > `SQL` `MCD` `MLD`
 - Modélisation conceptuelle (MCD) et logique (MLD)
