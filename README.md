@@ -1,6 +1,6 @@
 # Salut, moi c'est Mohamed El Ferdi 👋
 
-🎓 Étudiant en cycle ingénieur Cybersécurité & Réseaux — EFREI Paris  
+🎓 Étudiant en 2ᵉ année de prépa, j’intégrerai à la rentrée 2026 le cycle ingénieur en cybersécurité et réseaux — EFREI Paris  
 🔐 Passionné par le hacking éthique, le DevOps et la sécurité des systèmes  
 🚀 À la recherche d'une alternance de 3 ans dès août 2026  
 
